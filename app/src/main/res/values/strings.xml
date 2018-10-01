@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="irpin">IRPIN</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_ketinggian">ketinggianActivity</string>
+    <string name="keterangan">
+        Basah = kurang dari 65000,
+        Agak Basah = 65000-110000,
+        Kering = lebih dari 110000
+    </string>
+</resources>
